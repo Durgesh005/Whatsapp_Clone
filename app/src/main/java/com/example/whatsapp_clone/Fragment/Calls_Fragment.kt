@@ -26,7 +26,7 @@ class Calls_Fragment : Fragment() {
         "Jignesh (Office)",
         "Arif S",
         "+91 9727352050",
-        "Rupesh Rnws"
+        "Rupesh Rnw"
     )
     var photo = arrayOf(
         R.drawable.photo1,
