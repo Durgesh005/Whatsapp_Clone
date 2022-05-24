@@ -17,10 +17,13 @@ class Status_Fragment : Fragment() {
     var data = arrayOf(
         "Pradyuman",
         "Deep Mehta",
-        "Democratic Party Of Rnw",
         "Zenish",
-        "+91 8849941661",
         "Kartik",
+        "Abhishek N",
+        "Sumedh Bhai",
+        "Jignesh (Office)",
+        "Arif S",
+        "Abhishek N"
 
     )
     var photo = arrayOf(
@@ -30,6 +33,10 @@ class Status_Fragment : Fragment() {
         R.drawable.photo4,
         R.drawable.photo2,
         R.drawable.photo4,
+        R.drawable.photo2,
+        R.drawable.photo4,
+        R.drawable.photo1
+
 
     )
 
