@@ -14,11 +14,13 @@ Please adhere to this project's `code of conduct`.
 
 Contributions are always welcome. Please fork this repository and contribute using pull requests. The pull requests will be thoroughly assessed and if found significant will be accepted.
 ## Screenshots
-
-![photo_2022-05-23_22-41-45](https://user-images.githubusercontent.com/101545076/169872631-d864ab05-bc79-4387-8138-ebab21700ab4.jpg)
-![photo_2022-05-23_22-41-53](https://user-images.githubusercontent.com/101545076/169872702-c830895f-0fa7-4b19-bee4-8b1c5fd1b3f9.jpg)
-![photo_2022-05-23_22-42-06](https://user-images.githubusercontent.com/101545076/169872720-9e58d720-5d4b-4905-a61b-0e10a23da916.jpg)
-
+<p float="center">
+<img src="https://user-images.githubusercontent.com/101611806/170127619-ad4e1872-d4b3-436e-98f6-0892df92d76b.jpg" width=25% height=35%>
+  
+<img src="https://user-images.githubusercontent.com/101611806/170127646-c73b7ff0-9d11-44d2-8fa2-4df75ced9574.jpg" width=25% height=35%>
+  
+<img src="https://user-images.githubusercontent.com/101611806/170127629-9d57eb15-3e91-4fa8-8b2f-9972f910c77b.jpg" width=25% height=35%>
+</p>
 
 ## About The Project
 
